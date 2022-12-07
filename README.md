@@ -50,21 +50,7 @@ Soy desarrolladora 👩‍💻 en el área de desarrollo Móvil.📱
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Isaa1217&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
+<img src="https://github-readme-stats.vercel.app/api?username=Isaa1217&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
