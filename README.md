@@ -34,7 +34,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
 
 
@@ -82,4 +82,3 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
