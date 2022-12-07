@@ -9,8 +9,7 @@
 
 
 ### Glad to see you here!  
-Soy desarrolladora en el área de desarrollo Móvil.
-  
+Soy desarrolladora 👩‍💻 en el área de desarrollo Móvil.📱  
   
 
 <br/>  
@@ -19,16 +18,16 @@ Soy desarrolladora en el área de desarrollo Móvil.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
--   
+👩Hobbies:  
   
 
--   
+- Escuchar música 🎧🎶  
   
 
--   
+- Ver películas 🎬  
   
 
--   
+- Desarrollar y aprender cosas nuevas👩‍💻  
 
 
 </td><td valign="top" width="50%">
@@ -55,7 +54,7 @@ Soy desarrolladora en el área de desarrollo Móvil.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Isaa1217&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Isaa1217&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
 
 </td><td valign="top" width="50%">
 
