@@ -10,7 +10,6 @@
 - 🤗 Mis hobbies son: 
 Escuchar musica 🎧🎶
 Ver películas🎬
-Socializar🤝  
   
 
 <br/>  
