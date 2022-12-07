@@ -1,4 +1,4 @@
-## Hola 👋,Soy Isa!  
+## Hola 👋, Soy Isa!  
   
 
 <a href="https://github.com/Isaa1217" target="_blank">
@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+Soy desarrolladora en el área de desarrollo Móvil.
   
   
 
@@ -19,16 +19,16 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+-   
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+-   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+-   
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+-   
 
 
 </td><td valign="top" width="50%">
@@ -62,7 +62,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaa1217&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 
 </td></tr></table>  
 
