@@ -82,3 +82,4 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
