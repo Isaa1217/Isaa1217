@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://www.behance.net/gallery/158001659/Brand-characters-concept-Madam-Rum-for-liquor-bar/modules/891457549" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hola, soy isa</div>  
   
 
